@@ -44,7 +44,7 @@ Demise - https://github.com/kisman2000/Demise-0.1.5-beta-Ratted
 Zenith - https://github.com/The-Gopro336-Archive/Zenith-Public
 Zinc - https://github.com/BigJayMuffinSkidsShit/Zinc-0.1
 OyVey+ / OyVeyPlus - https://github.com/BigJayMuffinSkidsShit/OyVeyPlus
-RerHack.club - https://github.com/BigJayMuffinSkidsShit/RerHack.club
+RerHack.club - https://github.com/Canonball90/RerHack.club
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
 Pyro - https://github.com/PlutoSolutions/Pyro
 Razmorozka - https://github.com/amfero/razmorozka
